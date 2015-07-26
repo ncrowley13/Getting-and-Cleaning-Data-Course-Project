@@ -7,7 +7,6 @@ The features (561 of them) are unlabeled and can be found in the x_test.txt. The
 
 Script and Tidy Datasets: 
 I created a script called run_analysis.R which merges the test and training sets together. Prerequisites for this script:
-
     the UCI HAR Dataset mextracted
     the UCI HAR Dataset must be availble in a directory called "UCI HAR Dataset"
 
